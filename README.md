@@ -1,7 +1,7 @@
 # centurylink3510py
 Zyxel C3510ZX Keygen
 
-Default ESSID is CenturyLinkXXXX\
+Default ESSID is CenturyLinkXXXX
 
 Usage: python3 centurylink3510.py S200Z52002911
 
